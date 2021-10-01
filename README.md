@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KishoreKumar1308
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Mining, Blockchain Technology, and Decentralized Applications.
+- 📜 Hobbies include Movies, WebSeries, Gaming, Cricket, MMA, Reality Shows, and Documentaries.
 - 🌱 I’m currently pursuing a M.Sc on AI & ML
 - 📫 LinkedIn : https://www.linkedin.com/in/kishore-kumar-r-32a11420b/
 
