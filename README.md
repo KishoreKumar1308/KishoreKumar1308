@@ -22,7 +22,7 @@
 
 #### Other Works
 
-- [NFTs](https://nft.wazirx.org/K1zhore/creations)
+- [NFTs](https://nft.wazirx.org/K1zhore/)
 
 <!---
 KishoreKumar1308/KishoreKumar1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
