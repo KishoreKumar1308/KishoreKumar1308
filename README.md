@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KishoreKumar1308
 - 🌱 M.Sc in Artificial Intelligence and Machine Learning.
-- 👔 AI Engineer @superagi @contlo
+- 👔 AI @ DevRev | Ex AI Engineer @superagi @contlo
 - 👀 I’m interested in Machine Learning, LLMs, Fine-Tuning, Blockchain, and Cyber Security
 - 📜 Hobbies include Movies, Cricket, MMA, and Documentaries.
 - 📫 LinkedIn : https://www.linkedin.com/in/kishorekumar08/
